@@ -1,0 +1,17 @@
+Nombres:
+Apellidos:
+Tipo documento:
+Número documento:
+Correo FET:
+Código FET:
+
+De una escala de 1 a 5, siendo 1 lo más mínimo y 5 el máximo responda:
+
+a) ¿Qué conocimiento tiene sobre clonar un repositorio utilizando GIT?
+R:
+
+b) ¿Cuánto cree que es su conocimiento sobre los comandos básicos de GIT?
+R:
+
+c) ¿Sabe diferenciar el uso de los branches?
+R:
